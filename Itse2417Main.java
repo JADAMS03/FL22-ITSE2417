@@ -47,7 +47,7 @@ public class Itse2417Main
     static ArrayList<Object> menu = new ArrayList<Object>  (
         Arrays.asList(   
             new FinalProj(),          // Abdo 
-            new FinalProj(),          // Adams  
+            new JonathanAdams(),      // Adams  
             new FinalProj(),          // Benitez
             new FinalProj(),          // Butler A
             new FinalProj(),          // Butler K
